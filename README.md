@@ -1,0 +1,1 @@
+# Testes-em-Emulador-de-Dispositivos-Moveis
